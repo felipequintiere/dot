@@ -1,0 +1,9 @@
+[general]
+import = ["~/.config/alacritty/themes/midnight_haze.toml"]
+
+[font]
+size = 16.00
+
+[window]
+opacity = 1.0
+padding = {x=10, y=10}
